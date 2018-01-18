@@ -1,0 +1,14 @@
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/entities/CategoryConverter.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/entities/ArticleConverter.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/repositories/CategoryRepository.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/config/AppConfig.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/entities/Author.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/controllers/HomePageController.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/controllers/ArticleController.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/repositories/AuthorRepository.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/controllers/CategoryController.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/controllers/AuthorController.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/entities/Category.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/repositories/ArticleRepository.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/config/ApplicationInitializer.java
+/home/dianinha/Documents/workspace-sts-3.9.1.RELEASE/SpringCMS/src/main/java/pl/coderslab/entities/Article.java

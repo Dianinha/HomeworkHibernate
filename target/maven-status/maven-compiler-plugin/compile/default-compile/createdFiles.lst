@@ -1,0 +1,14 @@
+pl/coderslab/entities/Article.class
+pl/coderslab/controllers/AuthorController.class
+pl/coderslab/entities/Category.class
+pl/coderslab/config/ApplicationInitializer.class
+pl/coderslab/entities/CategoryConverter.class
+pl/coderslab/config/AppConfig.class
+pl/coderslab/entities/Author.class
+pl/coderslab/repositories/AuthorRepository.class
+pl/coderslab/repositories/CategoryRepository.class
+pl/coderslab/repositories/ArticleRepository.class
+pl/coderslab/controllers/CategoryController.class
+pl/coderslab/controllers/HomePageController.class
+pl/coderslab/controllers/ArticleController.class
+pl/coderslab/entities/ArticleConverter.class
